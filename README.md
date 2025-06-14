@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sanjai-Amarnath
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning android development
-- 💞️ I’m looking to collaborate on anything related to programming and compuetrs
+- 💞️ I’m looking to collaborate on anything related to programming and computers
 - 📫 Reach me through sanjaiamarnath08@gmai.com
