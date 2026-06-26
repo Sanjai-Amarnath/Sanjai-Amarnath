@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Sanjai-Amarnath
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning android development
+- 👀 I’m a software developer (Springboot)
+- 🌱 I’m intermediate at C, C++, Java, Python, HTML, CSS, JS, MongoDB, SQL, android development (Flutter/Java/Kotlin)
 - 💞️ I’m looking to collaborate on anything related to programming and computers
-- 📫 Reach me through sanjaiamarnath08@gmai.com
+- 📫 Reach me through mail : sanjaiamarnath08@gmai.com
+- 💼 Portfolio : https://sanjai-amarnath-r-portfolio.pages.dev
