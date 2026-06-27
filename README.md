@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on anything related to programming and computers
 - 📫 Reach me through mail : sanjaiamarnath08@gmai.com
 - 💼 Portfolio : https://sanjai-amarnath-r-portfolio.pages.dev
-- 📷 Instagram : https://www.instagram.com/sanjai__r_
+- 📷 Instagram : https://www.instagram.com/sanjai__r_ 
